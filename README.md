@@ -1,1 +1,3 @@
-# Final_SGIP_GIT
+# SGIP Eligibility & Incentive Calculator
+
+... (omitted for brevity here, already written) ...
